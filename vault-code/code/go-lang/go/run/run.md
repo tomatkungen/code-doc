@@ -1,7 +1,7 @@
 * Compile and run Go program
 
 ```go
-// terminal
+// terminal - compile and run
 go run .
 
 ```

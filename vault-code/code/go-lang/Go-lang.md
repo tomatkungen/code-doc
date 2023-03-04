@@ -1,6 +1,7 @@
 * [[go]]
 * Code page [Go-lang](https://go.dev/)
 * Download compiler [Go compiler](https://go.dev/dl/)
+* Start [Tutorial](https://go.dev/doc/tutorial/) for beginner like me :)
 * Search for [Packages](https://pkg.go.dev/)
 
 

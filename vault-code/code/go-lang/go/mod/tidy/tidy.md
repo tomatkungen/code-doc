@@ -7,6 +7,6 @@
 import "rsc.io/quote"
 ...
 
-// Terminal - add package from https://pkg.go.dev/
+// Terminal - add package rsc.ui/quote from https://pkg.go.dev/
 go mod tidy
 ```

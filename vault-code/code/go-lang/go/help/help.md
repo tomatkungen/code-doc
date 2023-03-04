@@ -1,4 +1,4 @@
 ```go
-// terminal list all commands
+// terminal - list all go commands
 go help
 ```

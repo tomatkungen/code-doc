@@ -64,15 +64,75 @@
             }
           },
           {
-            "id": "1db0e962af43bf25",
+            "id": "1478503d1877f274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go-lang/go/go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d17610a0284f59e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go-lang/go/code/func.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "255eb1d7138a0af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go-lang/go/mod/mod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4a21adacd332967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go-lang/go/mod/mod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bf6cd4c2bee9f19",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "529d291cbadc5616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go-lang/go/mod/edit/mod-edit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -138,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "go-lang/go/mod/edit/mod-edit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "go-lang/go/mod/edit/mod-edit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "go-lang/go/mod/edit/mod-edit.md"
+              }
             }
           }
         ]
@@ -188,13 +252,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1db0e962af43bf25",
+  "active": "529d291cbadc5616",
   "lastOpenFiles": [
     "go-lang/go/mod/mod.md",
-    "go-lang/go/mod/tidy/tidy.md",
-    "go-lang/Go-lang.md",
+    "go-lang/go/mod/edit/mod-edit.md",
+    "go-lang/go/work/work.md",
+    "init.md",
+    "go-lang/go/mod/init/mod-init.md",
+    "go-lang/go/work/init/work-init.md",
     "go-lang/go/go.md",
-    "go-lang/go/help/help.md",
-    "go-lang/go/run/run.md"
+    "go-lang/go/code/func.md",
+    "go-lang/go/code/code.md",
+    "go-lang/go/help/help.md"
   ]
 }
