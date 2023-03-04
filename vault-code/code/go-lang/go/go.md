@@ -24,3 +24,4 @@ go <command> [arguments]
 
 [[help]]
 [[run]]
+[[mod]]

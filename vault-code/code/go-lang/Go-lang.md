@@ -1,3 +1,4 @@
+* [[go]]
 * Code page [Go-lang](https://go.dev/)
 * Download compiler [Go compiler](https://go.dev/dl/)
 * Search for [Packages](https://pkg.go.dev/)

@@ -50,9 +50,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52a690d21f81f217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go-lang/go/mod/mod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1db0e962af43bf25",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go-lang/Go-lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go-lang/Go-lang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "go-lang/Go-lang.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,11 +188,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c55e3acf636b2026",
+  "active": "1db0e962af43bf25",
   "lastOpenFiles": [
-    "go-lang/go/help/help.md",
-    "go-lang/go/run/run.md",
+    "go-lang/go/mod/mod.md",
+    "go-lang/go/mod/tidy/tidy.md",
+    "go-lang/Go-lang.md",
     "go-lang/go/go.md",
-    "go-lang/Go-lang.md"
+    "go-lang/go/help/help.md",
+    "go-lang/go/run/run.md"
   ]
 }
