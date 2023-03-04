@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "c4d4ecd08ce76c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "a789760acf6765a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02a45597d5580db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go-lang/Go-lang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d66dd83ad20d039d",
+    "type": "split",
+    "children": [
+      {
+        "id": "39438bacaae99dd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37c6eb2beb839ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98b4b546e428e899",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "389d63a8d7c0a3c9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "269c4fde39416a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c30a03be7ed206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fa2712f1dd9c65c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "go-lang/Go-lang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92840a753512c05c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "go-lang/Go-lang.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3315bcacdf3516c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d67e8781f61a9d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "go-lang/Go-lang.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "02a45597d5580db1",
+  "lastOpenFiles": [
+    "go-lang/Go-lang.md"
+  ]
+}
