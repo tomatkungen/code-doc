@@ -125,14 +125,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go-lang/go/mod/edit/mod-edit.md",
+                "file": "go-lang/go/code/func.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9523d3f1dbb4d4b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go-lang/go/code/test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go-lang/go/mod/edit/mod-edit.md",
+                "file": "go-lang/go/code/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go-lang/go/mod/edit/mod-edit.md",
+                "file": "go-lang/go/code/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go-lang/go/mod/edit/mod-edit.md"
+                "file": "go-lang/go/code/test.md"
               }
             }
           }
@@ -252,16 +264,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "529d291cbadc5616",
+  "active": "9523d3f1dbb4d4b5",
   "lastOpenFiles": [
-    "go-lang/go/mod/mod.md",
+    "go-lang/go/code/func.md",
     "go-lang/go/mod/edit/mod-edit.md",
+    "go-lang/go/mod/mod.md",
     "go-lang/go/work/work.md",
     "init.md",
     "go-lang/go/mod/init/mod-init.md",
     "go-lang/go/work/init/work-init.md",
     "go-lang/go/go.md",
-    "go-lang/go/code/func.md",
     "go-lang/go/code/code.md",
     "go-lang/go/help/help.md"
   ]
