@@ -4,147 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a789760acf6765a0",
+        "id": "0607ac003a034f94",
         "type": "tabs",
         "children": [
           {
-            "id": "02a45597d5580db1",
+            "id": "a228cb96f01f2508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go-lang/Go-lang.md",
+                "file": "go-lang/go/build/build.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7a31647e4a1dcf9",
+            "id": "d2d7d104166365f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go-lang/go/go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f657cbaf09d4fc3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c55e3acf636b2026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/Go-lang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52a690d21f81f217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/mod/mod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1478503d1877f274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d17610a0284f59e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/code/func.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "255eb1d7138a0af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/mod/mod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a21adacd332967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/mod/mod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bf6cd4c2bee9f19",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "529d291cbadc5616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/code/func.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9523d3f1dbb4d4b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/code/test.md",
+                "file": "go-lang/go/install/install.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go-lang/go/code/test.md",
+                "file": "go-lang/go/install/install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go-lang/go/code/test.md",
+                "file": "go-lang/go/install/install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go-lang/go/code/test.md"
+                "file": "go-lang/go/install/install.md"
               }
             }
           }
@@ -261,20 +149,33 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
-  "active": "9523d3f1dbb4d4b5",
+  "active": "d2d7d104166365f3",
   "lastOpenFiles": [
-    "go-lang/go/code/func.md",
-    "go-lang/go/mod/edit/mod-edit.md",
+    "go-lang/go/go.md",
+    "go-lang/go/install/install.md",
+    "go-lang/go/build/build.md",
+    "go-lang/go/install",
+    "go-lang/Go-lang.md",
+    "go-lang/go/code/code.md",
     "go-lang/go/mod/mod.md",
+    "go-lang/go/code/func.md",
+    "go-lang/go/code/test.md",
+    "go-lang/go/build",
+    "go-lang/go/mod/edit/mod-edit.md",
     "go-lang/go/work/work.md",
     "init.md",
     "go-lang/go/mod/init/mod-init.md",
     "go-lang/go/work/init/work-init.md",
-    "go-lang/go/go.md",
-    "go-lang/go/code/code.md",
     "go-lang/go/help/help.md"
   ]
 }
