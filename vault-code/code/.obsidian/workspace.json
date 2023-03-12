@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go-lang/go/build/build.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2d7d104166365f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/install/install.md",
+                "file": "go-lang/go/go.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go-lang/go/install/install.md",
+                "file": "go-lang/go/go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go-lang/go/install/install.md",
+                "file": "go-lang/go/go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go-lang/go/install/install.md"
+                "file": "go-lang/go/go.md"
               }
             }
           }
@@ -159,23 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2d7d104166365f3",
+  "active": "a228cb96f01f2508",
   "lastOpenFiles": [
+    "go-lang/go/work/work.md",
+    "go-lang/go/run/run.md",
+    "go-lang/go/mod/mod.md",
+    "go-lang/go/mod/edit/edit.md",
+    "go-lang/go/mod/init/init.md",
+    "go-lang/go/mod/tidy/tidy.md",
+    "go-lang/go/work/init/init.md",
     "go-lang/go/go.md",
+    "work-init.md",
+    "go-lang/go/get/get.md",
     "go-lang/go/install/install.md",
     "go-lang/go/build/build.md",
+    "go-lang/go/get",
     "go-lang/go/install",
     "go-lang/Go-lang.md",
     "go-lang/go/code/code.md",
-    "go-lang/go/mod/mod.md",
     "go-lang/go/code/func.md",
     "go-lang/go/code/test.md",
     "go-lang/go/build",
-    "go-lang/go/mod/edit/mod-edit.md",
-    "go-lang/go/work/work.md",
     "init.md",
-    "go-lang/go/mod/init/mod-init.md",
-    "go-lang/go/work/init/work-init.md",
     "go-lang/go/help/help.md"
   ]
 }

@@ -29,3 +29,5 @@ go <command> [arguments]
 [[code]]
 [[build]]
 [[install]]
+[[get]]
+

@@ -21,5 +21,6 @@ use (
 )
 ```
 
-[[work-init]]
+[[go-lang/go/work/init/init|]]
+[[go-lang/go/work/init/init|init]]
 

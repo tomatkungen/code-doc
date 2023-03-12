@@ -16,8 +16,11 @@ go mod tidy
 go mod edit -replace example.com/greetings=../greetings
 ```
 
-[[tidy]]
-[[mod-init]]
-[[mod-edit]]
+[[go-lang/go/mod/mod|mod]]
+[[go-lang/go/mod/edit/edit|edit]]
+[[go-lang/go/mod/init/init|init]]
+
+
+
 
 
