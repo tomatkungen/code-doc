@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0607ac003a034f94",
+        "id": "fdc16f15dbe2d2c8",
         "type": "tabs",
         "children": [
           {
-            "id": "a228cb96f01f2508",
+            "id": "781ea6813260c2c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go-lang/go/build/build.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b04ac7f3b359242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4264c835f2154811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85819261506924ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "azure/azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eab15e17b2077292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "azure/naming-convention/naming convention.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d80fab9f77d4fcf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -134,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "azure/naming-convention/naming convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "azure/naming-convention/naming convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "azure/naming-convention/naming convention.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,18 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab15e17b2077292",
+  "active": "781ea6813260c2c5",
   "lastOpenFiles": [
+    "azure/azurite/azurite.md",
     "azure/azure.md",
-    "azure/naming-convention/naming convention.md",
-    "azure/naming-convention",
-    "git/log.md",
-    "azure",
+    "azure/func app/func app.md",
+    "azure/azurite",
+    "azure/cli/login.md",
+    "azure/cli/staticwebapp.md",
+    "azure/pipeline/azure web static app task.md",
+    "azure/cosmos db/cosmos db.md",
+    "azure/cosmos db",
+    "npm/npm-run-all.md",
+    "npm/npm.md",
+    "azure/swa/swa.md",
+    "npm",
+    "azure/func app",
     "git/git.md",
+    "azure/swa",
+    "git/install git.md",
+    "git/log.md",
+    "azure/naming-convention/naming convention.md",
+    "azure/cli",
+    "azure/pipeline",
+    "azure/naming-convention",
+    "azure",
     "go-lang/go/build/build.md",
     "git",
     "go-lang/Go-lang.md",
-    "react-native",
     "go-lang/go/go.md",
     "go-lang/go/work/work.md",
     "go-lang/go/run/run.md",
@@ -216,15 +183,6 @@
     "go-lang/go/mod/tidy/tidy.md",
     "go-lang/go/work/init/init.md",
     "work-init.md",
-    "go-lang/go/get/get.md",
-    "go-lang/go/install/install.md",
-    "go-lang/go/get",
-    "go-lang/go/install",
-    "go-lang/go/code/code.md",
-    "go-lang/go/code/func.md",
-    "go-lang/go/code/test.md",
-    "go-lang/go/build",
-    "init.md",
-    "go-lang/go/help/help.md"
+    "go-lang/go/get/get.md"
   ]
 }
