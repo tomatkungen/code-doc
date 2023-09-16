@@ -45,3 +45,25 @@ http://localhost:<port>/admin/functions/
 http://localhost:<port>/admin/functions/<function_name>
 
 ```
+
+* [Local settings json properties msdn](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-local#local-settings-file)
+```json
+// local.settings.json structure
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "<language worker>",
+    "AzureWebJobsStorage": "<connection-string>",
+    "MyBindingConnection": "<binding-connection-string>",
+    "AzureWebJobs.HttpExample.Disabled": "true"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*",
+    "CORSCredentials": false
+  },
+  "ConnectionStrings": {
+    "SQLConnectionString": "<sqlclient-connection-string>"
+  }
+}
+```

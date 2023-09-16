@@ -1,6 +1,7 @@
 * Azurite is emulator local for Azure storage
 	* Blob, Queue Storage, Table Storage
 * Exist in vscode as extension, Build in Visual studio 2022, Docker, github, npm
+* [Azurite command MSDN](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=npm)
 
 ```shell
 # Install npm package in cmd
