@@ -23,8 +23,24 @@
             "id": "55a6e457695d32f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "yarn/yarn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b64152e9932541b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/tag/tag.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -33,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doc.md",
+                "file": "git/log/log.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doc.md",
+                "file": "git/tag/tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doc.md",
+                "file": "git/tag/tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doc.md"
+                "file": "git/tag/tag.md"
               }
             }
           }
@@ -175,42 +191,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d1eb3d33ad5d2a7",
+  "active": "b64152e9932541b8",
   "lastOpenFiles": [
-    "npm/npm.md",
-    "npm/npm-run-all/npm-run-all.md",
-    "git/log/log.md",
-    "npm/npm-run-all",
     "git/git.md",
-    "git/log",
+    "git/tag/tag.md",
+    "yarn/yarn.md",
+    "git/tag",
+    "git/Untitled.md",
+    "semver/semver.md",
     "Doc.md",
+    "semver",
+    "npm/npm/npm.md",
+    "yarn/publish local",
+    "yarn",
+    "npm/npm.md",
+    "npm/npm",
+    "nx/nx.md",
+    "aws/code whisperer/code whisperer.md",
+    "aws/aws.md",
+    "azure/azure.md",
+    "aws/code whisperer",
+    "aws",
+    "git/log/log.md",
+    "azure/naming-convention/naming convention.md",
+    "azure/swa/swa.md",
+    "nx/nx",
+    "nx",
+    "npm/npm-run-all/npm-run-all.md",
+    "npm/npm-run-all",
     "go-lang/Go-lang.md",
-    "Untitled",
     "azure/cosmos db/cosmos db.md",
     "azure/azurite/azurite.md",
     "azure/func app/func app.md",
-    "azure/azure.md",
-    "azure/azurite",
     "azure/cli/login.md",
     "azure/cli/staticwebapp.md",
     "azure/pipeline/azure web static app task.md",
-    "azure/cosmos db",
-    "azure/swa/swa.md",
-    "npm",
-    "azure/func app",
-    "azure/swa",
     "git/install git.md",
-    "azure/naming-convention/naming convention.md",
-    "azure/cli",
-    "azure/pipeline",
     "go-lang/go/build/build.md",
-    "go-lang/go/go.md",
-    "go-lang/go/work/work.md",
-    "go-lang/go/run/run.md",
-    "go-lang/go/mod/mod.md",
-    "go-lang/go/mod/edit/edit.md",
-    "go-lang/go/mod/init/init.md",
-    "go-lang/go/mod/tidy/tidy.md",
-    "go-lang/go/work/init/init.md"
+    "go-lang/go/go.md"
   ]
 }
