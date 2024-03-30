@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/tag/tag.md",
+                "file": "xstate/Xstate.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/tag/tag.md",
+                "file": "xstate/Xstate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/tag/tag.md",
+                "file": "xstate/Xstate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/tag/tag.md"
+                "file": "xstate/Xstate.md"
               }
             }
           }
@@ -191,15 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b64152e9932541b8",
+  "active": "d37c6eb2beb839ae",
   "lastOpenFiles": [
-    "git/git.md",
+    "Doc.md",
+    "xstate/Xstate.md",
     "git/tag/tag.md",
+    "xstate",
+    "git/git.md",
     "yarn/yarn.md",
     "git/tag",
     "git/Untitled.md",
     "semver/semver.md",
-    "Doc.md",
     "semver",
     "npm/npm/npm.md",
     "yarn/publish local",
@@ -218,7 +220,6 @@
     "nx/nx",
     "nx",
     "npm/npm-run-all/npm-run-all.md",
-    "npm/npm-run-all",
     "go-lang/Go-lang.md",
     "azure/cosmos db/cosmos db.md",
     "azure/azurite/azurite.md",
@@ -227,7 +228,6 @@
     "azure/cli/staticwebapp.md",
     "azure/pipeline/azure web static app task.md",
     "git/install git.md",
-    "go-lang/go/build/build.md",
-    "go-lang/go/go.md"
+    "go-lang/go/build/build.md"
   ]
 }
