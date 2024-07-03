@@ -7,4 +7,5 @@
 [[Xstate]]
 [[tsc]]
 [[cmd]]
+[[shell]]
 

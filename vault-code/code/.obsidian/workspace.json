@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cmd/grep/grep.md",
+                "file": "shell/shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cmd/grep/grep.md",
+                "file": "shell/shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cmd/grep/grep.md",
+                "file": "shell/shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cmd/grep/grep.md"
+                "file": "shell/shell.md"
               }
             }
           }
@@ -217,9 +217,11 @@
   },
   "active": "9e6e9346924d2bc9",
   "lastOpenFiles": [
-    "cmd/cmd.md",
     "Doc.md",
+    "shell/shell.md",
     "cmd/grep/grep.md",
+    "shell",
+    "cmd/cmd.md",
     "cmd/grep",
     "yarn/yarn.md",
     "cmd",
@@ -243,7 +245,6 @@
     "git/tag",
     "git/Untitled.md",
     "semver/semver.md",
-    "semver",
     "npm/npm/npm.md",
     "npm/npm.md",
     "nx/nx.md",
@@ -251,7 +252,6 @@
     "aws/aws.md",
     "azure/azure.md",
     "azure/naming-convention/naming convention.md",
-    "azure/swa/swa.md",
-    "npm/npm-run-all/npm-run-all.md"
+    "azure/swa/swa.md"
   ]
 }
