@@ -5,4 +5,6 @@
 [[yarn]]
 [[semver]]
 [[Xstate]]
+[[tsc]]
+[[cmd]]
 
