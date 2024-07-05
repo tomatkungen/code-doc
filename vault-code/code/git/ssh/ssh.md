@@ -28,6 +28,12 @@ Host github.com
   AddKeysToAgent yes
   UseKeychain yes
   IdentityFile ~/.ssh/id_my
+
+# Add private key to ssh-agent 
+$ ssh-add ~/.ssh/id_rsa
+
+# alternative
+$ ssh-add --apple-use-keychain ~/.ssh/id_rsa
 ```
 
 ```shell
@@ -41,4 +47,15 @@ Host github.com
 6. Select the type of key, either authentication or signing. For more information about commit signing, see "[About commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)."
 7. In the "Key" field, paste your public key.   
 8. Click **Add SSH key**.
+```
+
+```shell
+# how to test ssh auth and type yes to verify fingerprint
+$ ssh -T git@github.com
+```
+
+```shell
+# Goto repository and push code if clone by https add ssh orgin instead
+# git remote set-url origin git@github.com:username/your-repository.git
+$ git remote set-url origin git@github.com:tomatkungen/code-doc.git
 ```
