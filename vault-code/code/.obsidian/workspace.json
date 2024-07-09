@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git.md",
+                "file": "git/add/add.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git.md",
+                "file": "git/add/add.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git.md",
+                "file": "git/add/add.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git.md"
+                "file": "git/add/add.md"
               }
             }
           }
@@ -156,6 +156,14 @@
   },
   "active": "9e6e9346924d2bc9",
   "lastOpenFiles": [
+    "Screenshot 2024-07-09 at 12.40.17.png",
+    "git/git.md",
+    "git/add/add.md",
+    "git/stash/stash.md",
+    "git/add",
+    "Screenshot 2024-07-09 at 12.30.47.png",
+    "git/stash",
+    "git/stash.md",
     "git/shortlog/shortlog.md",
     "git/shortlog",
     "git/rev-list/rev-list.md",
@@ -169,7 +177,6 @@
     "cmd/pbcopy/pbcopy.md",
     "cmd/pbcopy",
     "Screenshot 2024-07-09 at 12.04.36.png",
-    "git/git.md",
     "git/tag/tag.md",
     "git/log/log.md",
     "cmd/cmd.md",
@@ -180,17 +187,12 @@
     "git/config/config.md",
     "git/config",
     "Doc.md",
-    "shell",
-    "cmd/grep",
     "yarn/yarn.md",
     "yarn/yarn-classic vs yarn-modern.md",
     "node/node.md",
     "tsc/ts.SyntaxKind.md",
     "tsc/ts.forEachChild/ts.forEachChild.md",
     "tsc/tsc.createSourceFile/tsc.createSourceFile.md",
-    "tsc/tsc.md",
-    "tsc/compiler-api/compiler-api.md",
-    "xstate/Xstate.md",
-    "git/Untitled.md"
+    "tsc/tsc.md"
   ]
 }

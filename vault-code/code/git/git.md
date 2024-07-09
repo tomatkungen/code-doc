@@ -3,3 +3,5 @@
 [[tag]]
 [[config]]
 [[ssh]]
+[[stash]]
+
