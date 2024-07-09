@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "781ea6813260c2c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "azure/azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55a6e457695d32f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yarn/yarn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b64152e9932541b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xstate/Xstate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d1eb3d33ad5d2a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/log/log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0aee0871791db06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cmd/grep/grep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9e6e9346924d2bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell/shell.md",
+                "file": "git/git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell/shell.md",
+                "file": "git/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell/shell.md",
+                "file": "git/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell/shell.md"
+                "file": "git/git.md"
               }
             }
           }
@@ -217,41 +156,41 @@
   },
   "active": "9e6e9346924d2bc9",
   "lastOpenFiles": [
-    "Doc.md",
+    "git/shortlog/shortlog.md",
+    "git/shortlog",
+    "git/rev-list/rev-list.md",
+    "git/rev-list",
+    "git/reset/reset.md",
+    "git/reset",
+    "cmd/wc/wc.md",
+    "cmd/wc",
+    "cmd/touch/touch.md",
+    "cmd/touch",
+    "cmd/pbcopy/pbcopy.md",
+    "cmd/pbcopy",
+    "Screenshot 2024-07-09 at 12.04.36.png",
+    "git/git.md",
+    "git/tag/tag.md",
+    "git/log/log.md",
+    "cmd/cmd.md",
     "shell/shell.md",
     "cmd/grep/grep.md",
+    "git/ssh/ssh.md",
+    "git/ssh",
+    "git/config/config.md",
+    "git/config",
+    "Doc.md",
     "shell",
-    "cmd/cmd.md",
     "cmd/grep",
     "yarn/yarn.md",
-    "cmd",
     "yarn/yarn-classic vs yarn-modern.md",
     "node/node.md",
-    "node",
     "tsc/ts.SyntaxKind.md",
     "tsc/ts.forEachChild/ts.forEachChild.md",
     "tsc/tsc.createSourceFile/tsc.createSourceFile.md",
     "tsc/tsc.md",
-    "tsc/ts.forEachChild",
     "tsc/compiler-api/compiler-api.md",
-    "tsc/tsc.createSourceFile",
-    "tsc/compiler-api",
-    "tsc",
-    "git/log/log.md",
-    "git/tag/tag.md",
-    "git/git.md",
     "xstate/Xstate.md",
-    "xstate",
-    "git/tag",
-    "git/Untitled.md",
-    "semver/semver.md",
-    "npm/npm/npm.md",
-    "npm/npm.md",
-    "nx/nx.md",
-    "aws/code whisperer/code whisperer.md",
-    "aws/aws.md",
-    "azure/azure.md",
-    "azure/naming-convention/naming convention.md",
-    "azure/swa/swa.md"
+    "git/Untitled.md"
   ]
 }
