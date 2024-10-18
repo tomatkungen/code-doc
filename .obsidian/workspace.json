@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "930ee20d68fac87c",
+        "id": "870c6389f116d2ad",
         "type": "tabs",
         "children": [
           {
-            "id": "af5bab8fa68d9cce",
+            "id": "dc13bc6840f0a963",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault-code/code/git/ssh/ssh.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault-code/code/git/ssh/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault-code/code/git/ssh/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vault-code/code/git/ssh/ssh.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af5bab8fa68d9cce",
+  "active": "dc13bc6840f0a963",
   "lastOpenFiles": [
-    "vault-code/code/shell/shell.md",
+    "vault-code/code/couchdb/couchdb.md",
+    "vault-code/code/Doc.md",
+    "vault-code/mac/short-cut-keys/short-cut-keys.md",
+    "vault-code/code/couchdb",
+    "vault-code/mac/mac.md",
+    "vault-code/code/jsr-packages/jsr.md",
+    "vault-code/mac/short-cut-keys",
+    "vault-code/mac",
+    "Untitled 1",
+    "vault-code/code/git/stash/stash.md",
+    "vault-code/code/git/stash",
+    "vault-code/code/git/shortlog/shortlog.md",
+    "vault-code/code/git/shortlog",
+    "vault-code/code/git/rev-list/rev-list.md",
+    "vault-code/code/git/rev-list",
+    "vault-code/code/git/reset/reset.md",
+    "vault-code/code/git/reset",
+    "vault-code/code/git/add/add.md",
+    "vault-code/code/git/add",
+    "vault-code/code/cmd/wc/wc.md",
+    "vault-code/code/cmd/wc",
+    "vault-code/code/cmd/touch/touch.md",
+    "vault-code/code/cmd/pbcopy/pbcopy.md",
+    "vault-code/code/Screenshot 2024-07-09 at 12.40.17.png",
+    "vault-code/code/Screenshot 2024-07-09 at 12.30.47.png",
+    "vault-code/code/Screenshot 2024-07-09 at 12.04.36.png",
+    "vault-code/code/jsr-packages/jsr-packages.md",
+    "vault-code/tools/iterm/iterm.md",
+    "vault-code/tools/tools.md",
+    "README.md",
+    "tools.md",
+    "vault-code/code/code/code.md",
+    "vault-code/code/yarn/yarn-classic vs yarn-modern.md",
+    "vault-code/code/yarn/yarn.md",
+    "vault-code/code/node/node.md",
     "vault-code/code/git/ssh/ssh.md",
+    "vault-code/code/shell/shell.md",
     "vault-code/code/git/git.md",
-    "vault-code/code/git/config/config.md",
-    "vault-code/code/git/ssh",
-    "vault-code/code/git/config",
-    "README.md"
+    "vault-code/code/git/config/config.md"
   ]
 }
