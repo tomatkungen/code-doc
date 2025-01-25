@@ -65,3 +65,13 @@ $ rm -rf /usr/local/bin/yarn
 $ rm -rf /usr/local/bin/yarnpkg
 $ which yarn
 ```
+
+```json
+// Run Yarn in parallel or serial
+{
+    "parallel": "yarn script1 & yarn script2",
+    "serial": "yarn script1 && yarn script2",
+    "script1": "... some script here",
+    "script2": "... some there script here"
+}
+```

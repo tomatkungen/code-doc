@@ -11,3 +11,5 @@
 [[vault-code/code/code/code|code]]
 [[jsr-packages]]
 [[couchdb]]
+[[jscodeshift]]
+[[rust]]

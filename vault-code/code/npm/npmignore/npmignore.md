@@ -1,0 +1,2 @@
+* `npm pack` or `npm publish`, an `.npmignore` file will automatically be created
+* If there's no `.npmignore` file, but there _is_ a `.gitignore` file, then npm will ignore the stuff matched by the `.gitignore` file

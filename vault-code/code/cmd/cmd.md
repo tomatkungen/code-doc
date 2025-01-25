@@ -1,1 +1,5 @@
 [[grep]]
+[[pbcopy]]
+[[touch]]
+[[wc]]
+[[du]]

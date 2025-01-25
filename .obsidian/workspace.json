@@ -11,8 +11,14 @@
             "id": "dc13bc6840f0a963",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vault-code/code/cmd/du/du.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "du"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vault-code/tools/tauri/tauri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tauri"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vault-code/tools/tauri/tauri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tauri"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vault-code/tools/tauri/tauri.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tauri"
             }
           }
         ]
@@ -140,44 +164,44 @@
   },
   "active": "dc13bc6840f0a963",
   "lastOpenFiles": [
-    "vault-code/code/couchdb/couchdb.md",
-    "vault-code/code/Doc.md",
-    "vault-code/mac/short-cut-keys/short-cut-keys.md",
-    "vault-code/code/couchdb",
-    "vault-code/mac/mac.md",
-    "vault-code/code/jsr-packages/jsr.md",
-    "vault-code/mac/short-cut-keys",
-    "vault-code/mac",
-    "Untitled 1",
-    "vault-code/code/git/stash/stash.md",
-    "vault-code/code/git/stash",
-    "vault-code/code/git/shortlog/shortlog.md",
-    "vault-code/code/git/shortlog",
-    "vault-code/code/git/rev-list/rev-list.md",
-    "vault-code/code/git/rev-list",
-    "vault-code/code/git/reset/reset.md",
-    "vault-code/code/git/reset",
-    "vault-code/code/git/add/add.md",
-    "vault-code/code/git/add",
     "vault-code/code/cmd/wc/wc.md",
-    "vault-code/code/cmd/wc",
     "vault-code/code/cmd/touch/touch.md",
     "vault-code/code/cmd/pbcopy/pbcopy.md",
+    "vault-code/code/cmd/grep/grep.md",
+    "vault-code/code/cmd/du/du.md",
+    "vault-code/code/cmd/cmd.md",
+    "vault-code/code/Doc.md",
+    "vault-code/code/cli/cli.md",
+    "vault-code/code/cmd/du",
+    "vault-code/code/cli/commands",
+    "vault-code/code/shell/shell.md",
+    "vault-code/code/cli/du",
+    "vault-code/code/cli",
+    "vault-code/code/npm/npm.md",
+    "vault-code/code/npm/npmignore/npmignore.md",
+    "vault-code/code/npm/npm/npm.md",
+    "vault-code/code/npm/npmignore",
+    "vault-code/code/yarn/yarn.md",
+    "vault-code/code/yarn/yarn-classic vs yarn-modern.md",
+    "vault-code/code/jscodeshift/ImportDeclaration/ImportDeclaration.md",
+    "vault-code/tools/tauri/tauri.md",
+    "vault-code/tools/tools.md",
+    "vault-code/tools/tauri",
+    "vault-code/tools/brew/brew.md",
+    "vault-code/code/rust/rust.md",
+    "vault-code/tools/brew",
+    "vault-code/code/rust",
+    "vault-code/code/jscodeshift/jscodeshift.md",
+    "vault-code/code/jscodeshift/Untitled",
+    "vault-code/code/node/node.md",
+    "vault-code/code/jscodeshift/ImportDeclaration",
+    "vault-code/code/jsr-packages/jsr-packages.md",
+    "vault-code/code/jsr-packages/jsr.md",
+    "vault-code/code/couchdb/couchdb.md",
+    "vault-code/mac/short-cut-keys/short-cut-keys.md",
+    "vault-code/mac/mac.md",
     "vault-code/code/Screenshot 2024-07-09 at 12.40.17.png",
     "vault-code/code/Screenshot 2024-07-09 at 12.30.47.png",
-    "vault-code/code/Screenshot 2024-07-09 at 12.04.36.png",
-    "vault-code/code/jsr-packages/jsr-packages.md",
-    "vault-code/tools/iterm/iterm.md",
-    "vault-code/tools/tools.md",
-    "README.md",
-    "tools.md",
-    "vault-code/code/code/code.md",
-    "vault-code/code/yarn/yarn-classic vs yarn-modern.md",
-    "vault-code/code/yarn/yarn.md",
-    "vault-code/code/node/node.md",
-    "vault-code/code/git/ssh/ssh.md",
-    "vault-code/code/shell/shell.md",
-    "vault-code/code/git/git.md",
-    "vault-code/code/git/config/config.md"
+    "vault-code/code/Screenshot 2024-07-09 at 12.04.36.png"
   ]
 }
